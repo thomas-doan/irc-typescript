@@ -1,0 +1,27 @@
+{
+  "name": "group-993695",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@rendu-git.etna-alternance.net:module-9182/activity-50254/group-993695.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.11.9",
+    "@types/socket.io": "^3.0.2",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "node-modules": "^0.0.1",
+    "parser.js": "^1.0.0",
+    "socket.io": "^4.5.3",
+    "socket.io-client": "^4.5.3",
+    "util": "^0.12.5"
+  }
+}
